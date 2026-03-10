@@ -22,3 +22,4 @@ Networking Concepts
 python generate_logs.py
 python log_analyzer.py
 python attack_visualizer.py
+<img width="790" height="686" alt="image" src="https://github.com/user-attachments/assets/f0c75c79-2e50-490e-8ef1-c7f591dd3efc" />
